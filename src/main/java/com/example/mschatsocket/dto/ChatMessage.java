@@ -9,15 +9,4 @@ public class ChatMessage {
     String message;
     String user;
 
-    public ChatMessage(Object message, Object user) {
-    }
-
-
-    public Object getMessage() {
-        return this.message;
-    }
-
-    public Object getUser() {
-        return this.user;
-    }
 }
